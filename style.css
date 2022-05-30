@@ -8,7 +8,8 @@ p {
   font-family: monospace;
 }
 body{
-  margin:0
+  margin:0;
+  transition: all 1s; 
 }
 .border{
   width:10px;
